@@ -1,6 +1,7 @@
 import {ReactComponent as GithubIcon} from 'assets/img/github.svg';
 import './Navbar/styles.css';
 
+
 function Navbar() {
 
     return(
